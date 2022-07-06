@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PabloFuentesN
+- 👋 Hi, I’m Pablo Fuentes Navarrete
 - 👀 I’m interested in data science, analytics and politics
 - 🌱 I’m currently learning programming (python) and text mining (R)
 - 💞️ I’m interested in collaborating with the community of programmers and social scientists around the world
